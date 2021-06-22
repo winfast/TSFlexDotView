@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TSFlexDotView_Example' do
+  pod 'TSFlexDotView', :path => '../'
+
+  target 'TSFlexDotView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

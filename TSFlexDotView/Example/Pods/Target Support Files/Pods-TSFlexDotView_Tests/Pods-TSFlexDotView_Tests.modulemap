@@ -1,0 +1,6 @@
+framework module Pods_TSFlexDotView_Tests {
+  umbrella header "Pods-TSFlexDotView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

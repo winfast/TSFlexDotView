@@ -1,0 +1,23 @@
+PODS:
+  - FLEX (4.4.1)
+  - TSFlexDotView (1.0.0):
+    - FLEX
+
+DEPENDENCIES:
+  - TSFlexDotView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FLEX
+
+EXTERNAL SOURCES:
+  TSFlexDotView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FLEX: 7ca2c8cd3a435ff501ff6d2f2141e9bdc934eaab
+  TSFlexDotView: ec5b0a210a3e386c19dfec9178f5d8ef029b8de8
+
+PODFILE CHECKSUM: f9c1968617a88f8e66ec759fb6fa9d1f9f08a405
+
+COCOAPODS: 1.9.1
